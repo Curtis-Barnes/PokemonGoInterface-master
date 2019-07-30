@@ -34,6 +34,7 @@ public class CustomListAdapter extends ArrayAdapter {
         this.infoArray = infoArrayParam;
         this.members = membersParam;
         this.levels = levelsArrayparam;
+        //hello
 
     }
 
